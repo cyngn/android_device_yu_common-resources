@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Muziko</string>
   <string name="touchscreen_flashlight_gesture_title">Poŝlampo</string>
   <string name="touchscreen_flashlight_gesture_summary">Desegnu \'V\' por baskuli poŝlampon</string>
-  <string name="touchscreen_music_gesture_summary">Uzi gestojn por kontroli muzikludon\n
-    • Movi maldekstren por antaŭa kanto\n
-    • Movi dekstren por venonta kanto</string>
 </resources>

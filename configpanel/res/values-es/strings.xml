@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Música</string>
   <string name="touchscreen_flashlight_gesture_title">Linterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Dibuja una \'V\' para conmutar la luz de flash</string>
-  <string name="touchscreen_music_gesture_summary">Usar gestos para controlar la reproducción de música \n
-    • Deslizar a la izquierda para pista anterior\n
-    • Deslizar a la derecha para siguiente pista</string>
 </resources>

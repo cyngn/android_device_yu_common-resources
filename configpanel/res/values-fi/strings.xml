@@ -24,7 +24,8 @@
   <string name="touchscreen_music_gesture_title">Musiikki</string>
   <string name="touchscreen_flashlight_gesture_title">Lamppu</string>
   <string name="touchscreen_flashlight_gesture_summary">Piirrä \'V\' avataksesi taskulampun</string>
-  <string name="touchscreen_music_gesture_summary">Käytä eleitä ohjataksesi musiikin toistoa\n
+  <string name="touchscreen_music_gesture_summary">Käytä eleitä ohjataksesi musiikkia\n
+    • Pyyhkäise alas toistaaksesi/keskeyttääksesi\n
     • Pyyhkäise vasemmalle vaihtaaksesi edellisen kappaleen\n
     • Pyyhkäise oikealle vaihtaaksesi seuraavan kappaleen</string>
 </resources>

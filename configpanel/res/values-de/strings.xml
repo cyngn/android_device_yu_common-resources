@@ -24,7 +24,8 @@
   <string name="touchscreen_music_gesture_title">Musik</string>
   <string name="touchscreen_flashlight_gesture_title">Taschenlampe</string>
   <string name="touchscreen_flashlight_gesture_summary">\'V\' zeichen, um die Taschenlampe ein-/auszuschalten</string>
-  <string name="touchscreen_music_gesture_summary">Gesten verwenden, um die Musikwiedergabe zu steuern \n
-    • Nach links wischen für den vorherigen Titel\n
-    • Nach rechts wischen für den nächsten Titel</string>
+  <string name="touchscreen_music_gesture_summary">Musikwiedergabe mithilfe von Gesten steuern \n
+• Nach unten wischen: Play/Pause\n
+• Nach links wischen: Vorheriger Titel\n
+• Nach rechts wischen: Nächster Titel</string>
 </resources>

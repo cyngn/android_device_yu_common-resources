@@ -24,5 +24,4 @@
   <string name="touchscreen_music_gesture_title">Музика</string>
   <string name="touchscreen_flashlight_gesture_title">Лампа</string>
   <string name="touchscreen_flashlight_gesture_summary">Нацртај \'V\' да покренеш лампу</string>
-  <string name="touchscreen_music_gesture_summary">Користи гестове да контролишеш пуштање музике \n     • Превуци налево за претходну песму\n     • Превуци надесно за претходну песму</string>
 </resources>

@@ -25,6 +25,7 @@
   <string name="touchscreen_flashlight_gesture_title">Svetilka</string>
   <string name="touchscreen_flashlight_gesture_summary">Narišite \"V\", da preklopite svetilko</string>
   <string name="touchscreen_music_gesture_summary">Uporabite poteze za nadzor predvajanja glasbe \n
+    • Potegnite dol za predvajanje/premor\n
     • Potegnite levo za prejšnjo skladbo\n
     • Potegnite desno za naslednjo skladbo</string>
 </resources>

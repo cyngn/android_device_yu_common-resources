@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Muzika</string>
   <string name="touchscreen_flashlight_gesture_title">Žibintuvėlis</string>
   <string name="touchscreen_flashlight_gesture_summary">Nupiešti \"V\", kad įjungti žibintuvėlį</string>
-  <string name="touchscreen_music_gesture_summary">Naudoti gestus, kad kontroliuoti muzikos atkūrimą\n
-• Braukti kairėn dėl ankstesnio takelio\n
-• Braukti dešinėn dėl kito takelio</string>
 </resources>

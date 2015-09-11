@@ -23,7 +23,4 @@
   <string name="touchscreen_camera_gesture_summary">畫一個圓圈以啟動相機</string>
   <string name="touchscreen_flashlight_gesture_title">電筒</string>
   <string name="touchscreen_flashlight_gesture_summary">畫一個「V」以切換電筒</string>
-  <string name="touchscreen_music_gesture_summary">使用手勢控制音樂重播 \n
-     • 向左滑動至上一首\n
-     • 向右滑動至下一首</string>
 </resources>

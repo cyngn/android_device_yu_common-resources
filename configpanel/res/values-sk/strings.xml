@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Hudba</string>
   <string name="touchscreen_flashlight_gesture_title">Svietidlo</string>
   <string name="touchscreen_flashlight_gesture_summary">Nakreslením \'V\' spustíte svietidlo</string>
-  <string name="touchscreen_music_gesture_summary">Použiť gestá na ovládanie prehrávania hudby\n
-    • Posun vľavo pre predošlú skladbu\n
-    • Posun vpravo pre ďalšiu skladbu</string>
 </resources>

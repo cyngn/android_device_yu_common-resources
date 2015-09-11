@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Zene</string>
   <string name="touchscreen_flashlight_gesture_title">Zseblámpa</string>
   <string name="touchscreen_flashlight_gesture_summary">Rajzoljon egy \"V\" betűt a zseblámpához</string>
-  <string name="touchscreen_music_gesture_summary">Kézmozdulatok zene lejátszásához \n
-    • Balra csúsztatás az előző számhoz\n
-    • Jobbra csúsztatás a következő számra</string>
 </resources>

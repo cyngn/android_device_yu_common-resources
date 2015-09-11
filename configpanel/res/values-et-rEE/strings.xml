@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Muusika</string>
   <string name="touchscreen_flashlight_gesture_title">Taskulamp</string>
   <string name="touchscreen_flashlight_gesture_summary">Joonista \'V\' et aktiveerida taskulamp</string>
-  <string name="touchscreen_music_gesture_summary">Kasuta žeste muusika juhtimiseks \n 
-    • Libista vasakusle ellmiseks looks\n 
-    • Libista paremale järgmiseks looks</string>
 </resources>

@@ -24,5 +24,5 @@
   <string name="touchscreen_music_gesture_title">Музика</string>
   <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
   <string name="touchscreen_flashlight_gesture_summary">Намалюйте \'V\', щоб увімкнути або вимкнути ліхтарик</string>
-  <string name="touchscreen_music_gesture_summary">Використання жестів для керування програванням\n • проведіть ліворуч для попередньої композиції\n • проведіть праворуч для наступної композиції</string>
+  <string name="touchscreen_music_gesture_summary">Використовувати жести для керування відтворенням музики\n • провести вниз щоб грати/пауза\n • провести вліво для попереднього треку\n • провести вправо для наступного треку</string>
 </resources>

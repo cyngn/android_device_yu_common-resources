@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Musik</string>
   <string name="touchscreen_flashlight_gesture_title">Lampu senter</string>
   <string name="touchscreen_flashlight_gesture_summary">Gambar \'V\' untuk menyalakan senter</string>
-  <string name="touchscreen_music_gesture_summary">Gunakan gerakan untuk mengontrol putaran musik \n
-    • Geser ke kiri untuk trek sebelumnya\n
-    • Geser ke kanan untuk trek selanjutnya</string>
 </resources>

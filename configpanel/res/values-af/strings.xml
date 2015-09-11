@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">Musiek</string>
   <string name="touchscreen_flashlight_gesture_title">Flitslig</string>
   <string name="touchscreen_flashlight_gesture_summary">Teken \'n \'V\' om flits aan/af te skakel</string>
-  <string name="touchscreen_music_gesture_summary">Gebruik gebare om musiek terugspelingto beheer\n
-    • Sleep links vir vorige snit\n
-    • Sleep regs vir volgende snit</string>
 </resources>

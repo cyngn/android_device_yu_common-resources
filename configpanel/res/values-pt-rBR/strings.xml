@@ -24,7 +24,8 @@
   <string name="touchscreen_music_gesture_title">Música</string>
   <string name="touchscreen_flashlight_gesture_title">Lanterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Desenhe um \'V\' para ligar/desligar a lanterna</string>
-  <string name="touchscreen_music_gesture_summary">Utilize gestos para controlar a reprodução de música \n
-• Deslize para a esquerda para faixa anterior \n
-• Deslize para a direita para a próxima faixa</string>
+  <string name="touchscreen_music_gesture_summary">Use gestos para controlar a reprodução de música\n
+    • Deslize para baixo para tocar/pausar\n
+    • Deslize para a esquerda para faixa anterior\n
+    • Deslize para a direita para a próxima faixa</string>
 </resources>

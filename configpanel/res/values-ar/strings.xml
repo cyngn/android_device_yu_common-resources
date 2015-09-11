@@ -24,7 +24,4 @@
   <string name="touchscreen_music_gesture_title">الموسيقى</string>
   <string name="touchscreen_flashlight_gesture_title">المصباح اليدوي</string>
   <string name="touchscreen_flashlight_gesture_summary">ارسم \'V\' للتبديل الى المصباح اليدوي</string>
-  <string name="touchscreen_music_gesture_summary">استخدام الإيماءات للتحكم بي قائمة تشغيل الموسيقى \n
- • حرك إلى اليسار لتشغيل الأغنية السابقة\n  
-• حرك إلى الأيمن للأغنية التالية</string>
 </resources>

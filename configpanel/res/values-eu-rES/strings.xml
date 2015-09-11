@@ -25,6 +25,7 @@
   <string name="touchscreen_flashlight_gesture_title">Linterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Marraztu \"V\" bat linterna txandakatzeko</string>
   <string name="touchscreen_music_gesture_summary">Erabili keinuak musika erreprodukzioa kontrolatzeko \n
+    • Pasatu hatza behera erreproduzitu/pausatzeko\n
     • Pasatu hatza ezkerrera aurreko pista entzuteko\n
     • Pasatu hatza eskumara hurrengo pista entzuteko</string>
 </resources>
