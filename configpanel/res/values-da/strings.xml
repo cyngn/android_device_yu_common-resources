@@ -24,4 +24,8 @@
   <string name="touchscreen_music_gesture_title">Musik</string>
   <string name="touchscreen_flashlight_gesture_title">Lommelygte</string>
   <string name="touchscreen_flashlight_gesture_summary">Tegn et \'V\' for at tænde lommelygten</string>
+  <string name="touchscreen_music_gesture_summary">Anvend bevægelser til at kontrollere musikafspilning \n
+    • Stryg ned for at afspille/pause\n
+    • Stryg til venstre for forrige nummer\n
+    • Stryg til højre for næste nummer</string>
 </resources>

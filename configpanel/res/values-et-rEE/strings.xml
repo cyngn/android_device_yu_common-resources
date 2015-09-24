@@ -24,4 +24,8 @@
   <string name="touchscreen_music_gesture_title">Muusika</string>
   <string name="touchscreen_flashlight_gesture_title">Taskulamp</string>
   <string name="touchscreen_flashlight_gesture_summary">Joonista \'V\' et aktiveerida taskulamp</string>
+  <string name="touchscreen_music_gesture_summary">Kasuta žeste muusika taasesituse kontrollimiseks \n
+    • Viipa alla et mängida/peatada\n
+    • Viipa vasakule eelmise loo jaoks\n
+    • Viipa paremale järgmise loo jaoks</string>
 </resources>

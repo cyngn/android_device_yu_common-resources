@@ -24,4 +24,8 @@
   <string name="touchscreen_music_gesture_title">Muzyka</string>
   <string name="touchscreen_flashlight_gesture_title">Latarka</string>
   <string name="touchscreen_flashlight_gesture_summary">Narysuj \'V\', aby włączyć latarkę</string>
+  <string name="touchscreen_music_gesture_summary">Użyj gestów, aby kontrolować odtwarzanie muzyki \n
+    • Przesuń palcem w dół, żeby włączyć/zatrzymać\n
+    • Przesuń palcem w lewo, żeby przełączyć na poprzedni utwór\n
+    • Przesuń palcem w prawo, żeby włączyć kolejny utwór</string>
 </resources>
