@@ -24,4 +24,8 @@
   <string name="touchscreen_music_gesture_title">Muziek</string>
   <string name="touchscreen_flashlight_gesture_title">Zaklamp</string>
   <string name="touchscreen_flashlight_gesture_summary">Een \'V\' tekenen voor zaklamp</string>
+  <string name="touchscreen_music_gesture_summary">Gebaren gebruiken om muziek te bedienen\n
+    • Veeg omlaag voor afspelen/pauzeren\n
+    • Veeg naar links voor vorig nummer\n
+    • Veeg naar rechts voor volgend nummer</string>
 </resources>
