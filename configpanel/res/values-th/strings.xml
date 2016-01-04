@@ -24,4 +24,8 @@
   <string name="touchscreen_music_gesture_title">เพลง</string>
   <string name="touchscreen_flashlight_gesture_title">ไฟฉาย</string>
   <string name="touchscreen_flashlight_gesture_summary">วาด \'V\' เพื่อเปิดไฟฉาย</string>
+  <string name="touchscreen_music_gesture_summary">ใช้ท่าทางเคลื่อนไหวเพื่อความคุมการเล่นเพลง \n
+    • เลื่อนลงเพื่อเล่น/หยุดชั่วคราว\n
+    • เลื่อนไปทางซ้ายสำหรับแทรคก่อนหน้า\n
+    • เลื่อนไปทางขวาสำหรับแทรคถัดไป</string>
 </resources>
