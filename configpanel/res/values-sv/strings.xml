@@ -16,6 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Inställningar för gester</string>
+  <string name="screen_gestures_panel_title">Genvägar för gester</string>
+  <string name="screen_gestures_panel_summary">Använd gester under tiden skärmen är av</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Rita en cirkel för att aktivera kameran</string>
   <string name="touchscreen_music_gesture_title">Musik</string>
